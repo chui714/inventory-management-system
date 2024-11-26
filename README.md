@@ -1,1 +1,1 @@
-# inventory-management-ssytem
+# inventory-management-system
